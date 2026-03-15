@@ -22,11 +22,12 @@ function Projects() {
 
         <div className="bg-[#1f2937] p-6 rounded-xl hover:scale-105 transition">
           <h3 className="text-xl font-semibold text-white">
-            Placement Survey
+            Developer Hub
           </h3>
           <p className="text-slate-400 mt-3">
-            Python-based student placement data analysis tool.
+            A modern developer toolkit with JSON formatter, API tester, password generator, and analytics dashboard
           </p>
+           <a href="https://developer-hub-io.vercel.app/" className="text-cyan-400">Live Demo</a>
         </div>
 
         <div className="bg-[#1f2937] p-6 rounded-xl hover:scale-105 transition">
