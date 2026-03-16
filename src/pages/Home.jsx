@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import profile from "../assets/123.jpeg";
+import profile from "../assets/img pic.jpeg";
 import NeuralBackground from "../component/NeuralBackground";
 import AOS from "aos";
 import "aos/dist/aos.css";
